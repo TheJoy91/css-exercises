@@ -2,3 +2,18 @@
     background-color: deeppink;
     font-family: Verdana, DejaVu Sans, sans-serif; 
 }
+
+#second{
+    color: darkcyan;
+    font-size: 36px;
+}
+
+#third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
